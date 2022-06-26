@@ -4,4 +4,4 @@ streamlit.header('Breakfast Menu')
 streamlit.text('100g of Soaked Peanut \N{Peanuts} and 2 Bananas \N{banana}\N{banana}')
 streamlit.text('Sprouts of Greengram, Readgram with Carrot Slices \N{carrot}')
 
-streamlit.header('\N{mango} \N{apple} Make Your Own Fruit Diet \N{grapes}\N{cherries}')
+streamlit.header('\N{banana}\N{banana} Make Your Own Fruit Diet \N{grapes}\N{cherries}')
